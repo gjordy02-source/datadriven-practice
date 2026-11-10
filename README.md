@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [One Step Behind](./practice/python/one-step-behind) | Python | Medium | 2026-10-24 |
 | [The Only Difference](./practice/python/the-only-difference) | Python | Easy | 2026-10-23 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-10-18 |
 | [Sort Descending](./practice/python/sort-descending) | Python | Easy | 2026-10-17 |
