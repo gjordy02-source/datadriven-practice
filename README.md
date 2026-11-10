@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-11-10 |
 | [Top Deployed Model](./practice/sql/top-deployed-model) | SQL | Easy | 2026-11-10 |
 | [Successful Production Deploys](./practice/sql/successful-production-deploys) | SQL | Easy | 2026-11-10 |
 | [Timeout Warning Logs](./practice/sql/timeout-warning-logs) | SQL | Easy | 2026-11-10 |
