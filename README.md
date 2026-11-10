@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Successful Production Deploys](./practice/sql/successful-production-deploys) | SQL | Easy | 2026-11-10 |
 | [Timeout Warning Logs](./practice/sql/timeout-warning-logs) | SQL | Easy | 2026-11-10 |
 | [One Step Behind](./practice/python/one-step-behind) | Python | Medium | 2026-10-24 |
 | [The Only Difference](./practice/python/the-only-difference) | Python | Easy | 2026-10-23 |
