@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Sort Descending](./practice/python/sort-descending) | Python | Easy | 2026-10-17 |
 | [High Water Mark](./practice/python/high-water-mark) | Python | Easy | 2026-10-17 |
 
 <!-- datadriven:index:end -->
