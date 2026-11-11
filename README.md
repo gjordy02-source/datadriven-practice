@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High-Spend 2025 Campaigns](./practice/sql/high-spend-year-1-campaigns) | SQL | Easy | 2026-11-11 |
 | [Average Node Utilization](./practice/sql/average-node-utilization) | SQL | Easy | 2026-11-11 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-11-11 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-11 |
