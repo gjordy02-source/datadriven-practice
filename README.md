@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Node Utilization](./practice/sql/average-node-utilization) | SQL | Easy | 2026-11-11 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-11-11 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-11 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-11-10 |
