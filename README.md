@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-11-13 |
 | [Never-Ordered Products](./practice/sql/never-ordered-products) | SQL | Easy | 2026-11-13 |
 | [High-Spend 2025 Campaigns](./practice/sql/high-spend-year-1-campaigns) | SQL | Easy | 2026-11-11 |
 | [Average Node Utilization](./practice/sql/average-node-utilization) | SQL | Easy | 2026-11-11 |
