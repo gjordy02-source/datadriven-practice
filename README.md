@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Platform Team Feature Flags](./practice/sql/platform-team-feature-flags) | SQL | Easy | 2026-11-17 |
 | [Mobile Event Counts](./practice/sql/mobile-event-counts) | SQL | Easy | 2026-11-17 |
 | [Stock Status](./practice/sql/stock-status) | SQL | Easy | 2026-11-16 |
 | [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-11-16 |
