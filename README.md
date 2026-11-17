@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Ides of March](./practice/sql/the-ides-of-march) | SQL | Medium | 2026-11-17 |
 | [Transaction Timeline](./practice/sql/transaction-timeline) | SQL | Medium | 2026-11-17 |
 | [Second Highest Cloud Cost](./practice/sql/second-highest-cloud-cost) | SQL | Medium | 2026-11-17 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-17 |
