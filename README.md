@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Nodes in Target Regions](./practice/sql/nodes-in-target-regions) | SQL | Easy | 2026-11-19 |
 | [Content Type Distribution](./practice/sql/content-type-distribution) | SQL | Easy | 2026-11-17 |
 | [The Ides of March](./practice/sql/the-ides-of-march) | SQL | Medium | 2026-11-17 |
 | [Transaction Timeline](./practice/sql/transaction-timeline) | SQL | Medium | 2026-11-17 |
