@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Roads In](./practice/sql/the-roads-in) | SQL | Easy | 2026-11-20 |
 | [Character Position in Endpoint](./practice/sql/character-position-in-endpoint) | SQL | Easy | 2026-11-20 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-11-20 |
 | [Nodes in Target Regions](./practice/sql/nodes-in-target-regions) | SQL | Easy | 2026-11-19 |
