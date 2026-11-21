@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-21 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Easy | 2026-11-20 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-11-20 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-11-20 |
