@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Total Engineering Cost Allocation](./practice/sql/total-engineering-cost-allocation) | SQL | Easy | 2026-11-21 |
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-11-21 |
 | [Who Came First](./practice/python/who-came-first) | Python | Easy | 2026-11-21 |
 | [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-11-21 |
