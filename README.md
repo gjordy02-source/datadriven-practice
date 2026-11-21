@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-11-21 |
 | [The Running Total](./practice/python/the-running-total) | Python | Easy | 2026-11-21 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-21 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Easy | 2026-11-20 |
