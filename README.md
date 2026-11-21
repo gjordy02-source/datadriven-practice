@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-11-20 |
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Easy | 2026-11-20 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-11-20 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-11-20 |
 | [Top 10 Model Accuracies](./practice/sql/top-10-model-accuracies) | SQL | Easy | 2026-11-20 |
