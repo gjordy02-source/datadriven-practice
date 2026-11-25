@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/total_moose_7105), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Low Uptime Services](./practice/sql/low-uptime-services) | SQL | Easy | 2026-11-25 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-11-25 |
 | [Three Clouds](./practice/sql/three-clouds) | SQL | Easy | 2026-11-25 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-11-25 |
